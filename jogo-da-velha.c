@@ -88,6 +88,6 @@ int main(int argc, char const *argv[])
 	    printf("O jogo terminou sem vencedores\n");
 	}
 
-	printf("\n\nFeito por PedroUlian (https://github.com/PedroUlian) (https://github.com/UlianAlt)");
+	printf("\n\nFeito por NicolasCalim");
 	return 0;
 }
